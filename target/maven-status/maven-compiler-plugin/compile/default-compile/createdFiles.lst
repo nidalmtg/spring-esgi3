@@ -1,0 +1,3 @@
+com\esgi\coursjava\projetapirest\ProjetApiRestApplication.class
+com\esgi\coursjava\projetapirest\models\Pokemon.class
+com\esgi\coursjava\projetapirest\controllers\PokemonController.class
