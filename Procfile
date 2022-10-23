@@ -1,1 +1,1 @@
-web: java -Dspring.profiles.active=default -Dserver.port=$PORT -jar target/*.jar
+web: java -Dspring.profiles.active=default -Dserver.port=$PORT -jar target/projet-api-rest-0.0.1-SNAPSHOT.jar
